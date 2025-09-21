@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.heading {
+  background-color: lightgreen; 
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+.main {
+  background-color: pink; 
+  padding: 20px;
+
+}
